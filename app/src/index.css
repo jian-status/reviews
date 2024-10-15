@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+    height: 100%;
+}
+@layer components {
+    h2 {
+        @apply font-bold text-2xl;
+    }
+    h3 {
+        @apply font-bold text-lg mt-5;
+    }
+}
