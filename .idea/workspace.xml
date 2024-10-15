@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf07628f-edae-4510-9109-02103b3366b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/.eslintrc.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/README_screenshots/create_review_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/README_screenshots/products_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/README_screenshots/reviews_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/README_screenshots/sign_in_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/products_table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/reviews_table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/server/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/Credits" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/assets/star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/assets/yellow star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/components/HomePage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/components/RatingSystem.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/components/auth.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/components/products.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/components/products.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/users_table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/verified_emails_table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vite.config.js.timestamp-1728964429492-672c1fdbfc678.mjs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2lRyGiebdQzbRIuou7zVWzZkiZa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jian/Desktop/Reviews&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app/README_screenshots" />
+      <recent name="$PROJECT_DIR$/app/src/components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/app/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf07628f-edae-4510-9109-02103b3366b5" name="Changes" comment="" />
+      <created>1725157090781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725157090781</updated>
+      <workItem from="1725157091827" duration="3610000" />
+      <workItem from="1725205190320" duration="60000" />
+      <workItem from="1725205261026" duration="38000000" />
+      <workItem from="1725297531194" duration="1675000" />
+      <workItem from="1725299372568" duration="9822000" />
+      <workItem from="1725313665027" duration="88000" />
+      <workItem from="1725313759396" duration="70000" />
+      <workItem from="1725313862578" duration="25000" />
+      <workItem from="1725313971960" duration="29000" />
+      <workItem from="1725314098095" duration="20000" />
+      <workItem from="1725314120156" duration="17241000" />
+      <workItem from="1725414350190" duration="15000" />
+      <workItem from="1725414821246" duration="6854000" />
+      <workItem from="1725471019032" duration="1510000" />
+      <workItem from="1726356921313" duration="14431000" />
+      <workItem from="1728964168659" duration="686000" />
+      <workItem from="1728964926412" duration="5953000" />
+      <workItem from="1728970963792" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
