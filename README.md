@@ -1,6 +1,5 @@
 ## Features
 1. All routes are protected by Passport.js. If user is not logged in, they will be redirected to the login page and will not be able to communicate with the server.
-    - Visitors are not able to access protected routes (all of them).
 2. After logging in, the user will stay logged in for 1 day (express-session library).
 3. All reviews and users are saved to a MySQL database.
 
