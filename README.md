@@ -28,11 +28,11 @@
 
 ### Database Schema
 #### Products
-![products table databaase](products_table.png)
+![products table databaase](README_screenshots/products_table.png)
 #### Users
-![users table database](users_table.png)
+![users table database](README_screenshots/users_table.png)
 #### Reviews
-![reviews table database](reviews_table.png)
+![reviews table database](README_screenshots/reviews_table.png)
 
 #### Verified Emails (Work In Progress)
-![verified emails database](verified_emails_table.png)
+![verified emails database](README_screenshots/verified_emails_table.png)
